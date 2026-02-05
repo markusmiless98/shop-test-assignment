@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\myoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\myoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\admodel\\produktadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\admodel\\produktadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\adoshopchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\adoshopchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\jsonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\custommerjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\custommerjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\produktsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\produktsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\boardgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\boardgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\admodel\\boardgameinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\admodel\\boardgameinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\customerpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\customerpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\produktcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\produktcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\itemjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\itemjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|c:\\users\\mikae\\documents\\coding\\windowdemo\\windowdemo\\windowdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8833C8-64B1-4E3A-A7BF-D00C8C76F6EC}|WindowDemo\\WindowDemo.csproj|solutionrelative:windowdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Program.cs",
+              "RelativeToolTip": "WindowDemo\\Program.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAwwNcBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:01:38.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProduktCategory.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\ProduktCategory.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\ProduktCategory.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\ProduktCategory.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\ProduktCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:03:00.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\CustomerPurchase.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\CustomerPurchase.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\CustomerPurchase.cs",
+              "RelativeToolTip": "WindowDemo\\CustomerPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:02:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProduktSales.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\ProduktSales.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\ProduktSales.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\ProduktSales.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\ProduktSales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:17:06.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Cart.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Cart.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Cart.cs",
+              "RelativeToolTip": "WindowDemo\\Cart.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:34:24.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustommerJson.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\CustommerJson.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\CustommerJson.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\CustommerJson.cs",
+              "RelativeToolTip": "WindowDemo\\CustommerJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:37:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Item.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Item.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Item.cs",
+              "RelativeToolTip": "WindowDemo\\Item.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:17:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\JsonHandler.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\JsonHandler.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\JsonHandler.cs",
+              "RelativeToolTip": "WindowDemo\\JsonHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADwBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T21:01:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProduktAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADModel\\ProduktAdminHandler.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\ADModel\\ProduktAdminHandler.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADModel\\ProduktAdminHandler.cs",
+              "RelativeToolTip": "WindowDemo\\ADModel\\ProduktAdminHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:38:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:08:26.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemJson.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ItemJson.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\ItemJson.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ItemJson.cs",
+              "RelativeToolTip": "WindowDemo\\ItemJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:24:26.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoardGameInformation.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADModel\\BoardGameInformation.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\ADModel\\BoardGameInformation.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADModel\\BoardGameInformation.cs",
+              "RelativeToolTip": "WindowDemo\\ADModel\\BoardGameInformation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:31:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADOShopChecker.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADOShopChecker.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\ADOShopChecker.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\ADOShopChecker.cs",
+              "RelativeToolTip": "WindowDemo\\ADOShopChecker.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:30:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoardGameInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\BoardGameInfo.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\BoardGameInfo.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\BoardGameInfo.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\BoardGameInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:31:53.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardGame.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\BoardGame.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\BoardGame.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\BoardGame.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\BoardGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:51:38.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Window.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Window.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Window.cs",
+              "RelativeToolTip": "WindowDemo\\Window.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:01:38.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyOsContext.cs",
+              "DocumentMoniker": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\MyOsContext.cs",
+              "RelativeDocumentMoniker": "WindowDemo\\Models\\MyOsContext.cs",
+              "ToolTip": "C:\\Users\\mikae\\Documents\\coding\\WindowDemo\\WindowDemo\\WindowDemo\\Models\\MyOsContext.cs",
+              "RelativeToolTip": "WindowDemo\\Models\\MyOsContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T14:25:22.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

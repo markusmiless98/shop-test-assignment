@@ -1,0 +1,43 @@
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.exe
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.deps.json
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.runtimeconfig.json
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.dll
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.pdb
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.csproj.AssemblyReference.cache
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfoInputs.cache
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfo.cs
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.csproj.CoreCompileInputs.cache
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.dll
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\refint\WindowDemo.dll
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.pdb
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.genruntimeconfig.cache
+C:\Users\prima\OneDrive\Zocom\Nyköping23\Net2\Lektion 11\Kod\WindowDemo\WindowDemo\obj\Debug\net7.0\ref\WindowDemo.dll
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.exe
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.deps.json
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.runtimeconfig.json
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.dll
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.pdb
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfoInputs.cache
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfo.cs
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.csproj.CoreCompileInputs.cache
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.dll
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\refint\WindowDemo.dll
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.pdb
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.genruntimeconfig.cache
+D:\OneDrive\Zocom\Nyköping24\Net2\Lektion 10\Kod\Aktuellt\WindowDemo\WindowDemo\obj\Debug\net7.0\ref\WindowDemo.dll
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.exe
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.deps.json
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.runtimeconfig.json
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.dll
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\bin\Debug\net7.0\WindowDemo.pdb
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfoInputs.cache
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.AssemblyInfo.cs
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.csproj.CoreCompileInputs.cache
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.dll
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\refint\WindowDemo.dll
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.pdb
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\WindowDemo.genruntimeconfig.cache
+C:\Users\mikae\Documents\coding\WindowDemo\WindowDemo\WindowDemo\obj\Debug\net7.0\ref\WindowDemo.dll
